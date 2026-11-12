@@ -1,0 +1,42 @@
+# Vehicle Rental System (C and Python)
+
+## Project Overview
+This project is a Vehicle Rental System implemented using two programming languages: C and Python.
+
+It demonstrates the implementation of a vehicle rental application using fundamental programming concepts.
+
+## Technologies Used
+- C Programming
+- Python
+- Git and GitHub
+
+## Project Files
+
+| File | Description |
+|---|---|
+| `projectv.c` | Vehicle Rental System in C |
+| `project1.py` | Vehicle Rental System in Python |
+
+## How to Run
+
+### C Version
+1. Open the terminal.
+2. Compile the program:
+   `gcc projectv.c -o projectv`
+3. Run:
+   `./projectv`
+
+### Python Version
+1. Make sure Python is installed.
+2. Open the terminal.
+3. Run:
+   `python project1.py`
+
+## Objective
+The objective of this project is to develop a vehicle rental system and understand how programming concepts can be implemented in both C and Python.
+
+## Author
+Aaradhya Saxena
+
+## Repository
+Vehicle Rental System – C and Python Implementation
